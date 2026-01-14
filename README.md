@@ -46,8 +46,8 @@ I am a motivated Junior Web Developer with a good foundation in **MERN Stack (Mo
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [[Your LinkedIn Profile Link](https://pk.linkedin.com/in/hammas-ali1)]
-- Upwork: [[Your GitHub Profile Link](https://www.upwork.com/freelancers/~016bc01a7f0d6d4e6c?mp_source=share)]
+- LinkedIn: [LinkedIn Profile Link](https://pk.linkedin.com/in/hammas-ali1)]
+- Upwork: [[Upwork Profile Link](https://www.upwork.com/freelancers/~016bc01a7f0d6d4e6c?mp_source=share)]
 
 
 ---
